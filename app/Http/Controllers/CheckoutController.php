@@ -42,11 +42,6 @@ class CheckoutController extends Controller
         }
     }
 
-    public function createApp(Request $request)
-    {
-        //create website
-    }
-
     public function subscribe_process_app(Request $request)
     {
 
