@@ -10,7 +10,7 @@
 -->
         <div class="logo">
             <a href="#" class="simple-text">
-               TriangleHost
+               Control Panel
             </a>
         </div>
         <div class="sidebar-wrapper">
